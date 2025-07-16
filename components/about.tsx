@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I’m <span className="font-bold text-2xl underline">Roshan Kumar Rawat</span>, a <span className="italic font-semibold">passionate and self-motivated</span> Full Stack Developer with a strong foundation in the <span className="font-bold"> [MERN stack]</span> and a deep interest in creating <span className="">modern, responsive, and visually appealing</span> web applications. As a final-year BCA student, I’ve worked on multiple frontend and full-stack projects, combining my skills in <span className="font-bold text-lg">(React)</span>, <span className="font-bold text-lg">Tailwind CSS</span>, <span className="font-bold text-lg">GSAP</span>, and <span className="font-bold text-lg">(Next.js)</span> to bring creative ideas to life.
+        I’m <span className="font-italic font-bold text-2xl ">Roshan Kumar Rawat</span>, a <span className="italic font-semibold">passionate and self-motivated</span> Full Stack Developer with a strong foundation in the <span className="font-bold"> [MERN stack]</span> and a deep interest in creating <span className="">modern, responsive, and visually appealing</span> web applications. As a final-year BCA student, I’ve worked on multiple frontend and full-stack projects, combining my skills in <span className="font-bold text-lg">(React)</span>, <span className="font-bold text-lg">Tailwind CSS</span>, <span className="font-bold text-lg">GSAP</span>, and <span className="font-bold text-lg">(Next.js)</span> to bring creative ideas to life.
       </p>
 
       <p className="mb-3">
